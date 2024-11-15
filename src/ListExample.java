@@ -10,7 +10,7 @@ public class ListExample {
 
         ArrayList<String> list = new ArrayList<>();
 
-        // Adding elements to the ArrayList
+
         list.add("Apple");
         list.add("Banana");
         list.add("Orange");
